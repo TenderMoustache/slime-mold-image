@@ -1,0 +1,23 @@
+Raw-material dependence by world region
+UNCTAD Stages of Processing category 1 over total exports — the same definition used for Africa and the GCC elsewhere in this dataset. Reporter-declared exports (XPRT-TRD-VL). US$ thousand.
+
+Region,2017,2018,2019,2020,2021,2022,2023,2017-2021,2019-2023
+Latin America & Caribbean,0.282327,0.29178,0.29515,0.306539,0.328168,0.327209,0.322958,0.301808,0.317571
+Middle East & North Africa,0.210909,0.392126,0.421723,0.36255,0.34578,0.394415,0.356417,0.348271,0.376781
+North America,0.132526,0.146433,0.152619,0.159035,0.17521,0.190454,0.176247,0.153597,0.172286
+Europe & Central Asia,0.084199,0.08885,0.087596,0.0825,0.087402,0.072707,0.070665,0.086245,0.079804
+East Asia & Pacific,0.056104,0.053807,0.055246,0.051398,0.056667,0.061678,0.057851,0.054725,0.056929
+South Asia,0.08561,0.074679,0.071327,0.081654,0.075528,0.060979,0.063133,0.077432,0.069379
+
+Note on definitions
+"These shares are computed on UNCTAD Stages of Processing, not on the SITC commodity groups (food, agricultural raw materials, fuels,"
+ores and metals). The two measures give different answers for the same region — Latin America is 30 per cent on Stages of Processing
+and 24 per cent on the narrow SITC definition — so the comparison only holds if every region in it is measured the same way.
+A comparison built on the SITC commodity groups would rank these regions differently; warnings derived from that
+to the figures here.
+
+Block shares are pooled: the sum of raw-material exports over the block divided by the sum of total exports over the block.
+"Middle East & North Africa overlaps with Africa (it contains the Maghreb and Egypt) and with the GCC, so it should not be cited"
+alongside them as an independent region.
+
+Retrieved 16 September 2026.

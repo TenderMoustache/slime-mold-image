@@ -1,0 +1,46 @@
+"Intraregional trade by world region, 2023"
+"Source: WITS / UN Comtrade, reporter-declared. US$ thousand."
+
+Region,Exports to own region,Total exports,X %,Imports from own region,Total imports,M %,(X+M) intraregional %
+Europe & Central Asia,5962121043.70643,8443545437.00113,0.706116,5647103792.83218,8643469283.24514,0.653338,0.679418
+East Asia & Pacific,4071145025.4386,7962362156.49272,0.511299,4102209814.48814,7040108749.87817,0.582691,0.544801
+Sub-Saharan Africa,82205197.655224,393138272.31041,0.2091,60232357.526839,432159125.727122,0.139375,0.172589
+Latin America & Caribbean,198196265.786852,1365806391.88279,0.145113,205731731.305801,1371961273.19289,0.149954,0.147539
+Middle East & North Africa,208067387.237815,1361520929.28917,0.15282,154626907.162205,1180721860.18722,0.13096,0.142667
+South Asia,25227499.18016,444062155.742207,0.056811,16850920.691643,693305230.22946,0.024305,0.036996
+
+
+"ALL AFRICA RECONSTRUCTED (SSF + Algeria, Egypt, Libya, Morocco, Tunisia)"
+Component,Value,Basis
+SSF exports to SSF,82205197.655224,reported
+SSF exports to the five N. African states,1423735.464458,reported
+"Egypt, Morocco, Tunisia exports to SSF",5239886.904446,reported
+Algeria & Libya exports to SSF,732503.66287,recovered from partners' imports
+"Egypt, Morocco, Tunisia exports to each other / N.Africa",5731491.209906,reported
+Algeria & Libya exports within N. Africa,2201727.18411,recovered from partners' imports
+"Intra-African exports, total",97534542.081014
+Total African exports,589637344.254589,SSF+EGY+MAR+TUN reported; DZA+LBY via mirror
+"ALL AFRICA intraregional, export basis",0.165414
+
+
+Why Africa has to be reconstructed
+"WITS carries no all-Africa aggregate; its MEA region mixes the Maghreb with the Gulf, so it"
+"cannot stand in for North Africa. Africa must therefore be built as SSF plus Algeria, Egypt,"
+"Libya, Morocco and Tunisia. Mauritania already sits inside SSF and is not added again."
+
+Algeria and Libya file neither export nor import returns to Comtrade. Every flow they take
+"part in is nonetheless reported by the counterpart, so their intra-African trade is recovered"
+from the other side of each pair - $2.9bn in 2023. This is the standard mirror procedure.
+
+Which measure to quote
+"The export basis gives 16.5% for all Africa and 20.9% for SSF. The averaged (X+M) measure,"
+"which is the one normally cited in AfCFTA and UNCTAD work, gives 17.3% for SSF. The import"
+"leg cannot be completed for all Africa, because Algeria's and Libya's own imports are absent"
+"from both sides, so no all-Africa X+M figure is given here."
+
+On the ordering
+"On every basis, Africa sits ABOVE Latin America (14.8%) and the Middle East and North Africa"
+"(14.3%) on the averaged measure. Africa's intraregional trade is low, but it is not the"
+"second lowest in the world, and South Asia (3.7%) is not the only region below it."
+
+All figures are goods only. Services are not covered by this database.

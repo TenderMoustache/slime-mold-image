@@ -1,0 +1,45 @@
+"Intra-African trade reconstructed, 2023"
+"Export basis (WITS, XPRT-TRD-VL), all 54 African states. WITS carries no all-Africa aggregate, so the flow is assembled block by block. US$ thousand."
+
+Intra-African exports
+Component,Value,Basis
+Sub-Saharan Africa to Sub-Saharan Africa,82205197.655224,reported
+Sub-Saharan Africa to the five North African states,1423735.464458,reported
+"Egypt, Morocco and Tunisia to Sub-Saharan Africa",5239886.904446,reported
+"Egypt, Morocco and Tunisia to other North African states",5731491.209906,reported
+Algeria and Libya to Sub-Saharan Africa,732503.66287,recovered from partners' imports
+Algeria and Libya to other North African states,2201727.18411,recovered from partners' imports
+Total intra-African exports,97534542.081014
+
+Africa's total exports
+Component,Value,Basis
+Sub-Saharan Africa,393138272.31041,reported
+Egypt,42553243.151133,reported
+Morocco,42462806.869922,reported
+Tunisia,20039655.622851,reported
+Algeria,55790169.447053,mirror: world imports from Algeria
+Libya,35653196.85322,mirror: world imports from Libya
+Total African exports,589637344.254589
+
+"Intra-African share of African exports, 2023",0.165414
+"Same, counting only what is directly reported (no recovery)",0.160438
+
+How this is built
+"WITS carries no all-Africa aggregate, and its Middle East & North Africa group cannot stand in for North Africa. But the service will serve"
+group-to-group: reporter/ssf/partner/ssf returns a value. Africa-wide intra-trade is therefore assembled from four blocks — Sub-Saharan to
+"Sub-Saharan, Sub-Saharan to North Africa, North Africa to Sub-Saharan, and the North African pairs — with Algeria and Libya, which file"
+"nothing, recovered from what their African partners report importing from them. Shaded rows are the recovered and mirror-sourced parts."
+
+This figure is a lower bound
+"The recovery works for Algeria and Libya because they are addressable as separate reporters. It cannot be done for Angola, DR Congo,"
+"Congo-Brazzaville, Equatorial Guinea or Sudan, which sit inside the SSF aggregate and cannot be pulled out of it. Their intra-African flows"
+"are therefore missing from the numerator while their exports are missing from the denominator too, so the bias is not one-directional —"
+"but DR Congo in particular is a large regional trader, and the true share is above the figure shown."
+
+Basis
+This table is export-basis direct data. Tables 0 and 2 are mirror data. The denominators differ (US$590bn here against
+"US$681bn there), so the 16.5 per cent is not comparable with the China and seven-coloniser shares without rebasing first."
+
+"On the same construction, 2019 gives 18.3 per cent, though Algeria could not be recovered for that year, so it is a floor rather than an estimate."
+
+Retrieved 16 September 2026.
